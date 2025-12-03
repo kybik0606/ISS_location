@@ -14,7 +14,7 @@ pip install requests geopy
 ```
 ### Basic Usage
 ```bash
-python iss_tracker.py
+python ISS_location.py
 ```
 
 ### Example Output
